@@ -10,15 +10,15 @@ layerExtruderTemps1=[]
 layerPlatTemps=[]
 layerChamberTemps=[]
 layerLHeightsEnable=false
-layerHeight="@Variant(\0\0\0\x87=\xcc\xcc\xcd)"
-firstLayerHeight=@Variant(\0\0\0\x87>L\xcc\xcd)
+layerHeight="@Variant(\0\0\0\x87=\xf5\xc2\x8f)"
+firstLayerHeight=@Variant(\0\0\0\x87>8Q\xec)
 layerLHeights=[]
-baseSpeed=@Variant(\0\0\0\x87\x42p\0\0)
-travelSpeed=@Variant(\0\0\0\x87\x43H\0\0)
+baseSpeed=@Variant(\0\0\0\x87\x42\\\0\0)
+travelSpeed=@Variant(\0\0\0\x87\x43\x34\0\0)
 minSpeed=@Variant(\0\0\0\x87\x41\xa0\0\0)
 firstLayerMaxSpeed=@Variant(\0\0\0\x87\x42 \0\0)
 firstLayerMaxTravelSpeed=@Variant(\0\0\0\x87\x42\xc8\0\0)
-firstFewLayerCnt=@Variant(\0\0\0\x87@@\0\0)
+firstFewLayerCnt=@Variant(\0\0\0\x87@\xa0\0\0)
 firstFewLayerMaxSpeed=@Variant(\0\0\0\x87\x41\xf0\0\0)
 overhangSpeedEnable=true
 overhangSpeedShell75=@Variant(\0\0\0\x87\x41\xa0\0\0)

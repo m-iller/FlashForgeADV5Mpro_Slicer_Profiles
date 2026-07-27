@@ -1,13 +1,13 @@
 [General]
 extruderTemp0=@Variant(\0\0\0\x87\x43W\0\0)
 extruderTemp1=@Variant(\0\0\0\x87\x43R\0\0)
-platformTemp=@Variant(\0\0\0\x87\x42p\0\0)
+platformTemp=@Variant(\0\0\0\x87\x42\\\0\0)
 chamberTemp=@Variant(\0\0\0\x87\0\0\0\0)
 chamberPreheatTime=@Variant(\0\0\0\x87\0\0\0\0)
 layerTempsEnable=true
 layerExtruderTemps0=[]
 layerExtruderTemps1=[]
-layerPlatTemps=[]
+layerPlatTemps="[[1,2,60]]"
 layerChamberTemps=[]
 layerLHeightsEnable=false
 layerHeight=@Variant(\0\0\0\x87>L\xcc\xcd)
